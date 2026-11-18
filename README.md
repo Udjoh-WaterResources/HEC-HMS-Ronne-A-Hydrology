@@ -29,4 +29,4 @@ The model successfully captured the **timing** of the extreme flood event in lat
 **The "Why" (Data Limitation):** The model underestimates the peak flow and shows a flashier response because daily precipitation data (24-hour interval) smears short, intense convective storms over a full day. To improve accuracy in future iterations, hourly precipitation data should be used to better resolve the catchment's quick response time.
 
 ### 🗺️ Catchment Delineation
-![Ronne A Catchment](Ronne_A_Catchment.pdf)
+![Ronne A Catchment](Ronne_A_QGIS_Project.png)
